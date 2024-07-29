@@ -1,0 +1,17 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h5 {font-family: arial !important;}",
+        "h3 {font-family: arial !important;}"
+      ],
+      "settings": {
+        "content_max_width": 700
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

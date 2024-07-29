@@ -1,0 +1,118 @@
+{
+  "type": "footer",
+  "name": "t:groups.footer_group.name",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "links_A4MBCb": {
+          "type": "links",
+          "settings": {
+            "desktop_width": 20,
+            "desktop_padding": 4,
+            "collapse_on_mobile": true,
+            "title": "VISION, MISION, VALUES",
+            "show_title_on_desktop": true,
+            "link_list": "principal-2"
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "desktop_width": 30,
+            "desktop_padding": 0,
+            "collapse_on_mobile": true,
+            "title": "REGISTER",
+            "show_title_on_desktop": true,
+            "text": "<h5>Join the community!<\/h5>"
+          }
+        },
+        "20645bc9-3620-43eb-a123-d16abe78737b": {
+          "type": "spacer",
+          "settings": {
+            "desktop_width": 5
+          }
+        },
+        "links-0": {
+          "type": "links",
+          "settings": {
+            "desktop_width": 18,
+            "desktop_padding": 4,
+            "collapse_on_mobile": true,
+            "title": "BUSINESS",
+            "show_title_on_desktop": true,
+            "link_list": "footer"
+          }
+        },
+        "links-1": {
+          "type": "links",
+          "settings": {
+            "desktop_width": 17,
+            "desktop_padding": 4,
+            "collapse_on_mobile": true,
+            "title": "INFO",
+            "show_title_on_desktop": true,
+            "link_list": "info"
+          }
+        },
+        "spacer": {
+          "type": "spacer",
+          "disabled": true,
+          "settings": {
+            "desktop_width": 5
+          }
+        },
+        "2cc59c44-9b67-4ef2-a9a5-63069833a303": {
+          "type": "links",
+          "disabled": true,
+          "settings": {
+            "desktop_width": 20,
+            "desktop_padding": 4,
+            "collapse_on_mobile": true,
+            "title": "Links",
+            "show_title_on_desktop": true,
+            "link_list": "footer"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "desktop_width": 30,
+            "desktop_padding": 0,
+            "collapse_on_mobile": false,
+            "title": "About",
+            "show_title_on_desktop": false,
+            "text": "<h6>“SADEGO FASHION BUSINESS SL (AMLUL) ha sido beneficiaria del Fondo Europeo de Desarrollo Regional cuyo objetivo es mejorar la competitividad de las Pymes y gracias al cual ha puesto en marcha un Plan de e-Commerce internacional con el objetivo de mejorar sus ventas online internacionales en mercados exteriores durante el año 2021. Para ello ha contado con el apoyo del Programa Int-eComm de la Cámara de Comercio de Málaga. Una manera de hacer Europa”.<\/h6>",
+            "image": "shopify:\/\/shop_images\/ue-logo-amlul.png",
+            "image_max_width": 200,
+            "image_placement": "above_text"
+          }
+        }
+      },
+      "block_order": [
+        "links_A4MBCb",
+        "newsletter",
+        "20645bc9-3620-43eb-a123-d16abe78737b",
+        "links-0",
+        "links-1",
+        "spacer",
+        "2cc59c44-9b67-4ef2-a9a5-63069833a303",
+        "text"
+      ],
+      "custom_css": [
+        ".footer__groups a {font-size: 13px !important;}",
+        ".footer__heading {font-size: 12px !important ;}",
+        ".fs-body-x-small {font-size: 9px !important;}"
+      ],
+      "settings": {
+        "show_locale_selector": true,
+        "show_currency_selector": true,
+        "show_social_icons": true,
+        "show_payment_icons": true
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

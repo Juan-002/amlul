@@ -1,0 +1,407 @@
+{
+  "current": {
+    "color_background_body": "#ffffff",
+    "color_border": "#d4d4d4",
+    "color_overlay": "#000000",
+    "color_text": "#1d1d1d",
+    "color_text_link": "#000000",
+    "color_header_bg": "#ffffff",
+    "color_header_text": "#000000",
+    "color_background_footer": "#ffffff",
+    "color_text_footer": "#1D1D1D",
+    "color_background_button": "#000000",
+    "color_background_sale_badge": "#000000",
+    "color_background_contrast": "#f4f4f4",
+    "color_text_contrast": "#000000",
+    "color_border_contrast": "#d4d4d4",
+    "color_background_button_contrast": "#000000",
+    "color_text_button_contrast": "#ffffff",
+    "color_text_link_contrast": "#000000",
+    "color_background_popover": "#000000",
+    "color_border_popover": "#3D3D3D",
+    "color_background_button_popover": "#ffffff",
+    "color_text_button_popover": "#131313",
+    "font_logo": "montserrat_n4",
+    "capitalize_logo": false,
+    "logo_letter_spacing": 0,
+    "logo_base_size": 30,
+    "logo_mobile_base_scale": 50,
+    "font_heading": "montserrat_n4",
+    "heading_letter_spacing": 0,
+    "heading_base_size": 36,
+    "font_body": "montserrat_n4",
+    "body_base_size": 15,
+    "body_mobile_base_scale": 75,
+    "capitalize_navigation": false,
+    "navigation_letter_spacing": -50,
+    "navigation_base_size": 15,
+    "capitalize_product_title": true,
+    "product_title_letter_spacing": 0,
+    "enable_sticky_header": true,
+    "contrast_spacer": false,
+    "button_style": "none",
+    "button_shape": "0",
+    "swatch_options": "Color",
+    "enable_discount": false,
+    "enable_card_hover_options": false,
+    "enable_quick_add": true,
+    "show_quick_add_quantity": false,
+    "show_quick_cart_after_quick_add": true,
+    "cart_type": "page",
+    "currency_code_enabled": false,
+    "social_facebook_link": "",
+    "social_instagram_link": "",
+    "social_pinterest_link": "",
+    "social_snapchat_link": "",
+    "social_tumblr_link": "",
+    "social_twitter_link": "",
+    "favicon": "shopify:\/\/shop_images\/AF_Simbolo_c06606db-f8f8-4d69-ab6f-accf077aa4f8.png",
+    "variant_popup_page": "size-guide",
+    "color_border_header": "#363636",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "title": "Announce something here",
+              "link": "https:\/\/fluorescent.co\/help\/spark\/announcement-bar#set-up-the-announcement-bar",
+              "color_background": "#ffffff",
+              "color_text": "#000000"
+            }
+          },
+          "6babe932-3e75-48f4-8e66-f0777108ae33": {
+            "type": "announcement",
+            "settings": {
+              "title": "WORLDWIDE SHIPPING",
+              "link": "https:\/\/fluorescent.co\/help\/spark\/announcement-bar#set-up-the-announcement-bar",
+              "color_background": "#ffffff",
+              "color_text": "#181818"
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0",
+          "6babe932-3e75-48f4-8e66-f0777108ae33"
+        ],
+        "custom_css": [],
+        "settings": {
+          "timing": 3
+        }
+      },
+      "header": {
+        "type": "header",
+        "custom_css": [
+          ".header.is-sticky {background-color: transparent !important; color: black !important; box-shadow: none !important; border-color: black !important;}"
+        ],
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/Af_Logotipo_SINFONDO-01.png",
+          "logo_max_width": 130,
+          "menu": "main-menu",
+          "secondary_menu": "",
+          "style": "inline",
+          "navigation_position": "inline",
+          "logo_position": "center",
+          "enable_locale_selector": true,
+          "enable_country_selector": true,
+          "enable_transparent_home": true,
+          "color_text_transparent": "#000000",
+          "color_icon_transparent": "#000000",
+          "color_count_transparent": "#ffffff",
+          "color_border_transparent": "#ffffff",
+          "opacity_border_transparent": 0,
+          "logo_transparent": "shopify:\/\/shop_images\/Af_Logotipo_SINFONDO-01.png"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "text": {
+            "type": "text",
+            "settings": {
+              "desktop_width": 30,
+              "desktop_padding": 0,
+              "collapse_on_mobile": false,
+              "title": "About",
+              "show_title_on_desktop": false,
+              "text": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+              "image_max_width": 200,
+              "image_placement": "above_text"
+            }
+          },
+          "spacer": {
+            "type": "spacer",
+            "settings": {
+              "desktop_width": 5
+            }
+          },
+          "links-0": {
+            "type": "links",
+            "settings": {
+              "desktop_width": 18,
+              "desktop_padding": 4,
+              "collapse_on_mobile": true,
+              "title": "Company",
+              "show_title_on_desktop": true,
+              "link_list": "footer"
+            }
+          },
+          "links-1": {
+            "type": "links",
+            "settings": {
+              "desktop_width": 17,
+              "desktop_padding": 4,
+              "collapse_on_mobile": true,
+              "title": "Links",
+              "show_title_on_desktop": true,
+              "link_list": "footer"
+            }
+          },
+          "newsletter": {
+            "type": "newsletter",
+            "settings": {
+              "desktop_width": 30,
+              "desktop_padding": 0,
+              "collapse_on_mobile": true,
+              "title": "Newsletter",
+              "show_title_on_desktop": true,
+              "text": "<p>Subscribe for store updates and discounts.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "text",
+          "spacer",
+          "links-0",
+          "links-1",
+          "newsletter"
+        ],
+        "settings": {
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "show_social_icons": true,
+          "show_payment_icons": true
+        }
+      },
+      "popup": {
+        "type": "popup",
+        "settings": {}
+      }
+    },
+    "content_for_index": [],
+    "blocks": {
+      "6744518860797519131": {
+        "type": "shopify:\/\/apps\/etranslate-translate\/blocks\/floating-selector\/35c05b0e-4f05-4fc9-adc7-77b6ccb6b2ca",
+        "disabled": false,
+        "settings": {}
+      },
+      "11349500561483629931": {
+        "type": "shopify:\/\/apps\/ReStock\/blocks\/app-embed\/b399b727-6c85-44fc-9e21-63114bd72054",
+        "disabled": false,
+        "settings": {}
+      },
+      "4608251692753025422": {
+        "type": "shopify:\/\/apps\/sale-discount-manager\/blocks\/sale-labels\/29205fb1-2e68-4d81-a905-d828a51c8413",
+        "disabled": false,
+        "settings": {}
+      },
+      "15912215999290715800": {
+        "type": "shopify:\/\/apps\/geolocation-orbe\/blocks\/app-embed-modal\/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
+        "disabled": false,
+        "settings": {
+          "test_mode": false,
+          "modal_closeButton": false,
+          "option_flag_style": "none",
+          "option_currency_type": "none",
+          "option_language": true,
+          "title": "Are you in the right place?",
+          "text": "Please select your shipping country.",
+          "helper_text": "<p>Buy from the country of your choice. Remember that we can only ship your order to addresses located in the chosen country.<\/p>",
+          "cta_text": "Shop now",
+          "alignment_image": "right",
+          "style_corners": "square",
+          "style_dropdown": "outlined",
+          "modal_button_align": "right",
+          "title_font_size": 20,
+          "text_font_size": 14,
+          "show_blurred_background": false,
+          "style_colors_background": "#FFF",
+          "style_colors_closeButton": "#5C5F62",
+          "style_colors_cta_text": "#fff",
+          "style_colors_cta_button": "#000",
+          "style_colors_text": "#000"
+        }
+      },
+      "16278478101612877664": {
+        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {}
+      },
+      "5439026248262864547": {
+        "type": "shopify:\/\/apps\/preorder-globo\/blocks\/app-embed\/e547a0ad-8212-4bcc-b02f-761faa9b8af2",
+        "disabled": false,
+        "settings": {}
+      },
+      "13372541880985386961": {
+        "type": "shopify:\/\/apps\/scarcity-low-stock-counter\/blocks\/app-embed-block\/c0e4a7d7-acc3-497b-80aa-b72cf8156ac3",
+        "disabled": false,
+        "settings": {}
+      },
+      "7870687481494312845": {
+        "type": "shopify:\/\/apps\/wishlist-hero\/blocks\/app-embed\/a9a5079b-59e8-47cb-b659-ecf1c60b9b72",
+        "disabled": false,
+        "settings": {
+          "customThemeName": "~",
+          "additionalWLButtonCssClasses": "",
+          "additionalWLCartBubbleCssClasses": "",
+          "extraHTMLToAppend": "",
+          "disableAutomaticButtonAddition": false
+        }
+      },
+      "1366455014531238847": {
+        "type": "shopify:\/\/apps\/wishlist-hero\/blocks\/customize-style-block\/a9a5079b-59e8-47cb-b659-ecf1c60b9b72",
+        "disabled": false,
+        "settings": {
+          "Btn_color": "rgba(0,0,0,0)",
+          "WishlistButtonTextColor": "",
+          "Ico_color": "",
+          "HeaderFontSize": 35,
+          "ProductNameFontSize": 18,
+          "PriceFontSize": 16,
+          "PriceColor": ""
+        }
+      }
+    }
+  },
+  "presets": {
+    "Chic": {
+      "color_background_body": "#ffffff",
+      "color_border": "#d4d4d4",
+      "color_overlay": "#181818",
+      "color_text": "#1d1d1d",
+      "color_text_link": "#000000",
+      "color_header_bg": "#000000",
+      "color_header_text": "#ffffff",
+      "color_background_footer": "#F4F4F4",
+      "color_text_footer": "#1D1D1D",
+      "color_background_button": "#191919",
+      "color_background_contrast": "#f4f4f4",
+      "color_text_contrast": "#000000",
+      "color_border_contrast": "#d4d4d4",
+      "color_background_button_contrast": "#000000",
+      "color_text_button_contrast": "#ffffff",
+      "color_text_link_contrast": "#000000",
+      "color_background_popover": "#131313",
+      "color_border_popover": "#3D3D3D",
+      "color_background_button_popover": "#ffffff",
+      "color_text_button_popover": "#131313",
+      "font_logo": "frutiger_serif_n7",
+      "capitalize_logo": false,
+      "logo_letter_spacing": 0,
+      "logo_base_size": 37,
+      "font_heading": "frutiger_serif_n7",
+      "heading_letter_spacing": -25,
+      "heading_base_size": 48,
+      "font_body": "assistant_n4",
+      "capitalize_product_title": true,
+      "product_title_letter_spacing": 25,
+      "button_shape": "0",
+      "swatch_options": "Color",
+      "variant_popup_page": "size-guide",
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_snapchat_link": "",
+      "social_tumblr_link": "",
+      "color_border_header": "#363636"
+    },
+    "Clean": {
+      "color_background_body": "#ffffff",
+      "color_border": "#d4d4d4",
+      "color_overlay": "#181818",
+      "color_text": "#101010",
+      "color_text_link": "#000000",
+      "color_header_bg": "#ffffff",
+      "color_header_text": "#080808",
+      "color_background_footer": "#1d1d1d",
+      "color_text_footer": "#ffffff",
+      "color_background_button": "#181818",
+      "color_text_button": "#ffffff",
+      "color_background_contrast": "#1d1d1d",
+      "color_text_contrast": "#ffffff",
+      "color_border_contrast": "#3b3b3b",
+      "color_background_button_contrast": "#393939",
+      "color_text_button_contrast": "#ffffff",
+      "color_text_link_contrast": "#ffffff",
+      "color_background_popover": "#131313",
+      "color_border_popover": "#3D3D3D",
+      "color_background_button_popover": "#ffffff",
+      "color_text_button_popover": "#131313",
+      "font_logo": "zurich_extended_n9",
+      "capitalize_logo": true,
+      "logo_letter_spacing": 75,
+      "logo_base_size": 40,
+      "font_heading": "zurich_extended_n8",
+      "capitalize_headings": true,
+      "heading_letter_spacing": 0,
+      "heading_base_size": 40,
+      "font_body": "ibm_plex_sans_n4",
+      "body_letter_spacing": 0,
+      "body_base_size": 18,
+      "capitalize_product_title": true,
+      "product_title_letter_spacing": 25,
+      "button_style": "uppercase",
+      "button_shape": "0",
+      "swatch_options": "Material",
+      "enable_card_hover_options": true,
+      "social_facebook_link": "x",
+      "social_instagram_link": "x",
+      "social_linkedin_link": "x",
+      "social_pinterest_link": "x",
+      "social_snapchat_link": "x",
+      "social_tiktok_link": "x",
+      "social_tumblr_link": "x",
+      "social_twitter_link": "x",
+      "variant_popup_page": "size-guide",
+      "color_border_header": "#363636"
+    },
+    "Minimal": {
+      "color_border": "#dddde1",
+      "color_text_link": "#b75c4c",
+      "color_background_button": "#b75a4e",
+      "color_border_contrast": "#d8dade",
+      "color_background_button_contrast": "#1C2232",
+      "color_text_popover": "#1c2232",
+      "color_background_popover": "#fdfdfd",
+      "color_border_popover": "#c2c5cc",
+      "font_logo": "abril_fatface_n4",
+      "capitalize_logo": true,
+      "logo_letter_spacing": 0,
+      "logo_base_size": 40,
+      "font_heading": "georgia_pro_n7",
+      "capitalize_headings": false,
+      "heading_letter_spacing": 0,
+      "heading_base_size": 46,
+      "font_body": "ibm_plex_sans_n4",
+      "body_letter_spacing": 0,
+      "body_base_size": 18,
+      "variant_popup_page": "size-guide",
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_snapchat_link": ""
+    }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".navigation__submenu {opacity: 0.8 !important; background-color: #ffffff !important; color: #000000 !important;}",
+      ".drawer-menu {opacity: 0.8 !important; background-color: #ffffff !important; color: #000000 !important;}",
+      ".quick-search__overlay {opacity: 0.2; background-color: #ffffff !important;}",
+      ".quick-search {opacity: 0.8 !important;}"
+    ]
+  }
+}

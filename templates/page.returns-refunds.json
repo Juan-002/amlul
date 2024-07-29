@@ -1,0 +1,133 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h5 {font-family: arial !important;}",
+        "h3 {font-family: arial !important;}"
+      ],
+      "settings": {
+        "content_max_width": 700
+      }
+    },
+    "5aa6cc67-0486-48d7-8269-1f9de3256751": {
+      "type": "questions",
+      "blocks": {
+        "template--18498240708946__5aa6cc67-0486-48d7-8269-1f9de3256751-1680610633a9dd91a6-0": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Holiday Returns",
+            "answer": "<p>All orders placed from December 1st, benefit from an extended return period until January 9th. Outside this period, you have 15 days from the date of receipt to return your order.<\/p>",
+            "author": ""
+          }
+        },
+        "template--18498240708946__5aa6cc67-0486-48d7-8269-1f9de3256751-1680610633a9dd91a6-1": {
+          "type": "question",
+          "settings": {
+            "title": "How do I return my order?",
+            "answer": "<p><strong>REFUNDS <\/strong><\/p><p><strong>· <\/strong>To request a refund or exchange of an item,<strong> you can request a scheduled pickup <\/strong>through the following link:<\/p><p><a href=\"https:\/\/return.iflastmile.com\/en\/amlul\" target=\"_blank\" title=\"https:\/\/return.iflastmile.com\/en\/amlul\"><strong>https:\/\/return.iflastmile.com\/en\/amlul<\/strong><\/a><\/p><p>For pick-up issues, please send an e-mail to returns@iflastmile.com.<\/p><p>Please, notice that the cost of the scheduled pickup will be discounted from the amount of the refund. Customs and duty charges in case they apply—would have to be paid beforehand. Amlul has the right to deny all packages with customs costs and duties unpaid by the customer. Until such time as we receive an item in our warehouse it remains the customer’s responsibility.<\/p><p><\/p><p>ㅤㅤㅤㅤ<\/p><p><strong>·<\/strong> If you prefer to make the return by your own means, you can send an email to email returns@amlul.com with your order number, “my product return” as a subject and the items you would like to return. Notice that sometimes customs will require to pay a further amount in order for the package to be returned. Customs and duty charges in case they apply—would have to be paid beforehand. Amlul has the right to deny all packages with customs costs and duties unpaid by the customer. Until such time as we receive an item in our warehouse it remains the customer’s responsibility.<\/p><p>ㅤ<\/p><p><strong>·<\/strong> You can also return you item in our showroom in Madrid located in Calle Pelayo 48, 28004.<\/p><p>ㅤ<\/p><p><strong>CONDITIONS<\/strong><\/p><p>Items must be returned <strong>unused<\/strong>, <strong>undamaged<\/strong> with all Amlul tags and original packaging.<\/p><p><strong>· Swimwear: <\/strong>must be tried on over your own clothing. In order to return swimwear, it must contain the hygiene strip. Amlul has the right to deny all swimwear that has been used or is unclean.<\/p><p><strong>· Footwear: <\/strong>must be returned unused, undamaged with all brand tags, original box, dust bag and packaging. <\/p><p>ㅤ<\/p><p>Amlul has the right to deny return credits if items received do not meet our return criteria. In this case, the items will be sent back to the customer.<\/p><p><\/p>",
+            "author": ""
+          }
+        },
+        "template--18498240708946__5aa6cc67-0486-48d7-8269-1f9de3256751-1680610633a9dd91a6-2": {
+          "type": "question",
+          "settings": {
+            "title": "Have you received my returned item(s) ?",
+            "answer": "<p>As soon as your return package has been received and processed, you’ll receive an email informing you of this. We will process your return within 15 days of receiving your package in our facilities.<\/p>",
+            "author": ""
+          }
+        },
+        "template--18498240708946__5aa6cc67-0486-48d7-8269-1f9de3256751-1680610633a9dd91a6-3": {
+          "type": "question",
+          "settings": {
+            "title": "How long do I have to return items ?",
+            "answer": "<p>If you change your mind, you have 15 days from the day you receive your order to return your item(s) in their original condition. You will be required to arrange and pay for the return of the items to us. <\/p><p>Amlul has the right to deny returns if items received do not meet our return criteria. In this case, a voucher for the amount of the order will be made. <\/p>",
+            "author": ""
+          }
+        },
+        "e3b09f77-2d45-4653-8fc9-1971311b9b34": {
+          "type": "question",
+          "settings": {
+            "title": "Is it possible to exchange an item ?",
+            "answer": "<p>If you are interested in a different size or color and want to exchange an item, the process is to request a return for the item you would like to exchange and simply re-order on our e-shop. In this instance, you’ll be expected to cover the return cost. We cannot ensure the availability of sizes when you request an exchange as it depends on our stock availability. <\/p><p>For orders in Spain, please send us an email to info@amlul.com since we can arrange a shipping of the new products with pick-up of the original order.<\/p>",
+            "author": ""
+          }
+        },
+        "c2ee4c71-9fec-45df-907d-9498a58c5167": {
+          "type": "question",
+          "settings": {
+            "title": "Will you refund the shipping costs if I return an item ?",
+            "answer": "<p>Shipping expenses are the responsibility of our customers. We’ll however take to our charge shipping expenses if the product was damaged or faulty. In this case, please contact our customer service team (returns@amlul.com).<\/p>",
+            "author": ""
+          }
+        },
+        "78187ebc-b6e1-4906-b54a-f128f70b4c39": {
+          "type": "question",
+          "settings": {
+            "title": "Am I required to pay customs or duties when returning an item?",
+            "answer": "<p>Customs and duties are our client’s responsibility. Amlul has the right to deny all returns with customs and duties unpaid.<\/p>",
+            "author": ""
+          }
+        },
+        "1de46dc7-228a-495c-a54c-6b365f011c3c": {
+          "type": "question",
+          "settings": {
+            "title": "How long should I expect to wait for my refund ?",
+            "answer": "<p>A refund will be made within 15 working days from the day your returned package was received by our warehouse assuming all conditions outlined in our returns policy have been followed and met. Refunds can then take up to 10 working days to show on your account.<\/p>",
+            "author": ""
+          }
+        },
+        "0896c853-385a-4909-bb08-6da5496c73f6": {
+          "type": "question",
+          "settings": {
+            "title": "My item has some kind of defect, what do I do?",
+            "answer": "<p>Our aim is that every item arrives in perfect condition and that you are happy with your purchase. In case you receive a fauty item, please contact our customer service team at <a><span style=\"text-decoration:underline\">returns@amlul.com. <\/span><\/a> We are prepared to exchange items that appear to have manufacturing defects.<\/p>",
+            "author": ""
+          }
+        },
+        "e0ef9875-0eb4-46fb-8d64-9db3144e014b": {
+          "type": "question",
+          "settings": {
+            "title": "My item has some kind of defect, what do I do?",
+            "answer": "<p>Our aim is that every item arrives in perfect condition and that you are happy with your purchase. In case you receive a fauty item, please contact our customer service team at <a><span style=\"text-decoration:underline\">returns@amlul.com. <\/span><\/a> We are prepared to exchange items that appear to have manufacturing defects.<\/p>",
+            "author": ""
+          }
+        },
+        "99187f1f-6f10-479d-9bd9-b2c173807af9": {
+          "type": "question",
+          "settings": {
+            "title": "I received a wrong item, what do I do?",
+            "answer": "<p>We are prepared to exchange wrong items received by error. In this case, please contact our customer service team as soon as possible at <a><span style=\"text-decoration:underline\">returns@amlul.com<\/span><\/a><\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18498240708946__5aa6cc67-0486-48d7-8269-1f9de3256751-1680610633a9dd91a6-0",
+        "template--18498240708946__5aa6cc67-0486-48d7-8269-1f9de3256751-1680610633a9dd91a6-1",
+        "template--18498240708946__5aa6cc67-0486-48d7-8269-1f9de3256751-1680610633a9dd91a6-2",
+        "template--18498240708946__5aa6cc67-0486-48d7-8269-1f9de3256751-1680610633a9dd91a6-3",
+        "e3b09f77-2d45-4653-8fc9-1971311b9b34",
+        "c2ee4c71-9fec-45df-907d-9498a58c5167",
+        "78187ebc-b6e1-4906-b54a-f128f70b4c39",
+        "1de46dc7-228a-495c-a54c-6b365f011c3c",
+        "0896c853-385a-4909-bb08-6da5496c73f6",
+        "e0ef9875-0eb4-46fb-8d64-9db3144e014b",
+        "99187f1f-6f10-479d-9bd9-b2c173807af9"
+      ],
+      "settings": {
+        "section_title": "",
+        "subheading": "",
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "1.0"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5aa6cc67-0486-48d7-8269-1f9de3256751"
+  ]
+}

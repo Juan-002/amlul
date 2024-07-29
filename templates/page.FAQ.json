@@ -1,0 +1,302 @@
+{
+  "sections": {
+    "questions": {
+      "type": "questions",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Has my order been accepted?",
+            "answer": "<p>After your payment has been accepted you will be redirected to a page confirming your payment. You will then receive a confirmation email which will include the details of your order. If you do not appear to have received this email, we advise you to check in your spam email. If needs be, we ask that you contact customer services indicating the date and the sum of the order.<\/p>",
+            "author": ""
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "What should I do if I haven’t received my order yet?",
+            "answer": "<p>Login to your AMLUL account to check that your order has been accepted. You will find your order status in your account dashboard. Click on your order tracking number and you will be redirected to the website of the delivery service provider you have chosen, to track your package. If after 10 working days you have still not received your order, contact the delivery service provider, with your order tracking number in hand.<\/p>",
+            "author": ""
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "Can I cancel my order after I have placed it?",
+            "answer": "<p>Once the email with confirmation of your order has been sent you will no longer be able to cancel your order. However, it is possible for you to return any items for a refund once you have received them. However, we don’t cover the delivery costs for the returned items.<\/p>",
+            "author": ""
+          }
+        },
+        "question-4": {
+          "type": "question",
+          "settings": {
+            "title": "I have an incorrect item\/size in my order. What should I do?",
+            "answer": "<p>In the event of receiving a wrong item, please contact out Customer Services team with your order number and the incorrect item’s name and product number. You’ll be given the indications to proceed the return.<\/p>",
+            "author": ""
+          }
+        },
+        "question-5": {
+          "type": "question",
+          "settings": {
+            "title": "There is an item missing from my order. What should I do?",
+            "answer": "<p>Check the condition of your package. If the package shows any signs of damage please send a photo to our Customer Services team so we can make an inquiry with the delivery service provider. If your package is not damaged but you are nevertheless missing an item, please do not hesitate to contact our Customer Services team.<\/p>",
+            "author": ""
+          }
+        },
+        "question-6": {
+          "type": "question",
+          "settings": {
+            "title": "What do I do if I receive a faulty item?",
+            "answer": "<p>AMLUL pays great attention to the quality of our products. However, if despite all of the quality controls carried out, an item appears to be faulty, we kindly ask you to send a photo of the faulty item(s) to our Customer Services team. If the product is deemed to be faulty by our Customer Services team, we’ll provide you with a return number to proceed with the return at our charge. We’ll send you a brand new piece as soon as we receive the defective one. In case this product is no longer available, you’ll be refunded immediately.<\/p>",
+            "author": ""
+          }
+        },
+        "question-7": {
+          "type": "question",
+          "settings": {
+            "title": "Do I need to create an account to place an order with you?",
+            "answer": "<p>In order to place an order it’s not mandatory to register, however we highly encourage you to do so in the event you’d like to track\/exchange your items.<\/p>",
+            "author": ""
+          }
+        },
+        "bcb703b7-b12f-40f5-b971-9d4bbfb1841a": {
+          "type": "question",
+          "settings": {
+            "title": "What should I do if I’m unable to login into my account?",
+            "answer": "<p>If your email address or password are not recognized: Be sure to use the email address and password that you’ve provided when you first created the account. If you are unable to remember your password click on «Forgot your password?» on the login page. We’ll send you an email with a link that will allow you to create a new password for your account. If after this you still can’t sign in, contact our Customer Services team.<\/p>",
+            "author": ""
+          }
+        },
+        "85d45e48-2181-4a59-934b-152b91676bc5": {
+          "type": "question",
+          "settings": {
+            "title": "I would like to send a gift.",
+            "answer": "<p>Each item is packed with paper silk without price tag. It will surely make your friend happy to receive it from you. You just have to mention a different delivery address.<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "question-3",
+        "question-4",
+        "question-5",
+        "question-6",
+        "question-7",
+        "bcb703b7-b12f-40f5-b971-9d4bbfb1841a",
+        "85d45e48-2181-4a59-934b-152b91676bc5"
+      ],
+      "settings": {
+        "section_title": "Orders",
+        "subheading": "",
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "1.0"
+      }
+    },
+    "20ab784a-76ff-4494-8e7d-267f43abeee0": {
+      "type": "questions",
+      "blocks": {
+        "template--18498240643410__20ab784a-76ff-4494-8e7d-267f43abeee0-1680614752d7522b5b-0": {
+          "type": "question",
+          "settings": {
+            "title": "Do you have any discount code?",
+            "answer": "<p>We offer a 10% off first orders by subscribing to our newsletter. This way, you would be the first to know whenever we launch a new product or when a promotion is available.<\/p>",
+            "author": ""
+          }
+        },
+        "template--18498240643410__20ab784a-76ff-4494-8e7d-267f43abeee0-1680614752d7522b5b-1": {
+          "type": "question",
+          "settings": {
+            "title": "Need some help with your discount code?",
+            "answer": "<p>To use your discount code: Login to your account. The discount code will be requested in the shopping cart.<\/p>",
+            "author": ""
+          }
+        },
+        "template--18498240643410__20ab784a-76ff-4494-8e7d-267f43abeee0-1680614752d7522b5b-2": {
+          "type": "question",
+          "settings": {
+            "title": "How do I pay for my order?",
+            "answer": "<p>We only accept payment via Paypal, Visa, Mastercard and Carte Bleue.<\/p>",
+            "author": ""
+          }
+        },
+        "template--18498240643410__20ab784a-76ff-4494-8e7d-267f43abeee0-1680614752d7522b5b-3": {
+          "type": "question",
+          "settings": {
+            "title": "After I have confirmed my order, when will the money be debited from my account?",
+            "answer": "<p>Once your order has been accepted and processed, and following authorization from your bank, the money will be debited from your account.<\/p>",
+            "author": ""
+          }
+        },
+        "e63a4d38-a0d9-418c-8856-a231fe6bbc28": {
+          "type": "question",
+          "settings": {
+            "title": "What do I do if my payment is declined?",
+            "answer": "<p>You have 3 attempts to complete the payment for your order. If none of these attempts are successful your payment will be declined and you will be redirected to a page indicating that your payment has been declined. Your payment may be declined for different reasons: An incorrect entry of your personal bank details, the total cost of the order exceeds your balance etc. We advise you contact your bank to discover why your payment has been declined.<\/p>",
+            "author": ""
+          }
+        },
+        "26816de8-5411-4ebd-95e8-99d2da737588": {
+          "type": "question",
+          "settings": {
+            "title": "What if I paid with my credit card\/debit card and I didn’t receive the confirmation email?",
+            "answer": "<p>If your payment was processed and you haven’t received an email confirming your order within 5 minutes, check that the email is not in your spam. The bank verification can sometimes take a little longer (security procedures) when the request is not immediately authorized and has to be validated manually.<\/p>",
+            "author": ""
+          }
+        },
+        "db5e32bd-3d5c-410c-8f15-9a316c896f52": {
+          "type": "question",
+          "settings": {
+            "title": "Is the payment secured ?",
+            "answer": "<p>The payment is 100% secure. All transactions will take place on Stripe. Your card information is never stored in our servers.<\/p>",
+            "author": ""
+          }
+        },
+        "8fbc942b-8c33-4247-a409-f9136cddfca3": {
+          "type": "question",
+          "settings": {
+            "title": "Will my bank details be stored?",
+            "answer": "<p>No, banking information is never stored on our website. The bank details that you give are encrypted on your personal computer, and will never circulate unencrypted around the web.<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18498240643410__20ab784a-76ff-4494-8e7d-267f43abeee0-1680614752d7522b5b-0",
+        "template--18498240643410__20ab784a-76ff-4494-8e7d-267f43abeee0-1680614752d7522b5b-1",
+        "template--18498240643410__20ab784a-76ff-4494-8e7d-267f43abeee0-1680614752d7522b5b-2",
+        "template--18498240643410__20ab784a-76ff-4494-8e7d-267f43abeee0-1680614752d7522b5b-3",
+        "e63a4d38-a0d9-418c-8856-a231fe6bbc28",
+        "26816de8-5411-4ebd-95e8-99d2da737588",
+        "db5e32bd-3d5c-410c-8f15-9a316c896f52",
+        "8fbc942b-8c33-4247-a409-f9136cddfca3"
+      ],
+      "settings": {
+        "section_title": "Payments and discounts",
+        "subheading": "",
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "1.0"
+      }
+    },
+    "50c096c4-6b97-40d7-b146-46db92a7337c": {
+      "type": "questions",
+      "blocks": {
+        "template--18498240643410__50c096c4-6b97-40d7-b146-46db92a7337c-1680614752d7522b5b-0": {
+          "type": "question",
+          "settings": {
+            "title": "Is it possible to track my order?",
+            "answer": "<p>You can track the delivery of your order. Once your package has been dispatched, you will receive an email containing a tracking link which allows you to follow the progress of your order on the site of your chosen delivery service provider. Your unique tracking number is indicated in the dashboard of your account. By clicking on the tracking number you will be redirected to the site of your chosen delivery service provider where you can follow the progress of your order.<\/p>",
+            "author": ""
+          }
+        },
+        "template--18498240643410__50c096c4-6b97-40d7-b146-46db92a7337c-1680614752d7522b5b-1": {
+          "type": "question",
+          "settings": {
+            "title": "What should I do if my package shows signs of damage?",
+            "answer": "<p>Following the receipt of your package, if you believe the packaging shows signs of deterioration or damage, please contact our Customer Services team, who will investigate the matter further with the messaging company that you chose.<\/p>",
+            "author": ""
+          }
+        },
+        "template--18498240643410__50c096c4-6b97-40d7-b146-46db92a7337c-1680614752d7522b5b-2": {
+          "type": "question",
+          "settings": {
+            "title": "Am I required to pay customs or import duties?",
+            "answer": "<p><strong>EU ZONE<\/strong><\/p><p>Orders made within the European Union zone will not incur in customs or duties charges.<\/p><p><\/p><p><strong>INTERNATIONAL ORDERS<\/strong><\/p><p>Will be shipped DDU (Delivery Duty Unpaid) and might incur custom duties upon delivery. This charge is normally determined by your local customs authority and this expense is our clients responsibility. These payments must be made in order for your order to be released from customs. Please consult your local customs office for more information.<\/p><p>If you are ordering from within your own customs zone or country, import duties will not be applicable.<\/p>",
+            "author": ""
+          }
+        },
+        "template--18498240643410__50c096c4-6b97-40d7-b146-46db92a7337c-1680614752d7522b5b-3": {
+          "type": "question",
+          "settings": {
+            "title": "This is an example of a question that a customer might ask",
+            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18498240643410__50c096c4-6b97-40d7-b146-46db92a7337c-1680614752d7522b5b-0",
+        "template--18498240643410__50c096c4-6b97-40d7-b146-46db92a7337c-1680614752d7522b5b-1",
+        "template--18498240643410__50c096c4-6b97-40d7-b146-46db92a7337c-1680614752d7522b5b-2",
+        "template--18498240643410__50c096c4-6b97-40d7-b146-46db92a7337c-1680614752d7522b5b-3"
+      ],
+      "settings": {
+        "section_title": "Shipment",
+        "subheading": "",
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "1.0"
+      }
+    },
+    "adb5ae8f-ea08-4cf6-8aa1-ec92168fb4fe": {
+      "type": "questions",
+      "blocks": {
+        "template--18498240643410__adb5ae8f-ea08-4cf6-8aa1-ec92168fb4fe-1680614752d7522b5b-0": {
+          "type": "question",
+          "settings": {
+            "title": "The item I want is currently out of stock. Will the stock be replenished?",
+            "answer": "<p>If the item you want is out of stock but scheduled to be reordered, you can pre-order it from the product page and click on «pre-order». However, in Amlul we produce limited edition pieces and we don’t do restock. Once is sold out, is gone forever!<\/p>",
+            "author": ""
+          }
+        },
+        "template--18498240643410__adb5ae8f-ea08-4cf6-8aa1-ec92168fb4fe-1680614752d7522b5b-1": {
+          "type": "question",
+          "settings": {
+            "title": "Is there a shop or a showroom AMLUL where I can try on and see the items ?",
+            "answer": "<p>You can see our collections and try your favorite garments in our Studio. We are based in Madrid city center, at <strong>Calle Pelayo 48, 28004. <\/strong><\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18498240643410__adb5ae8f-ea08-4cf6-8aa1-ec92168fb4fe-1680614752d7522b5b-0",
+        "template--18498240643410__adb5ae8f-ea08-4cf6-8aa1-ec92168fb4fe-1680614752d7522b5b-1"
+      ],
+      "settings": {
+        "section_title": "AMLUL collections",
+        "subheading": "",
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "1.0"
+      }
+    },
+    "ee4a5e2e-1798-4b20-8fdc-8bf9bd5dd564": {
+      "type": "questions",
+      "blocks": {
+        "template--18498240643410__ee4a5e2e-1798-4b20-8fdc-8bf9bd5dd564-1680614752d7522b5b-1": {
+          "type": "question",
+          "settings": {
+            "title": "How can I contact the customer service?",
+            "answer": "<p>You can contact customer service by writing at info@amlul.com. <\/p><p>For returns please contact returns@amlul.com<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18498240643410__ee4a5e2e-1798-4b20-8fdc-8bf9bd5dd564-1680614752d7522b5b-1"
+      ],
+      "settings": {
+        "section_title": "Customer service",
+        "subheading": "",
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "1.0"
+      }
+    }
+  },
+  "order": [
+    "questions",
+    "20ab784a-76ff-4494-8e7d-267f43abeee0",
+    "50c096c4-6b97-40d7-b146-46db92a7337c",
+    "adb5ae8f-ea08-4cf6-8aa1-ec92168fb4fe",
+    "ee4a5e2e-1798-4b20-8fdc-8bf9bd5dd564"
+  ]
+}

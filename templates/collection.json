@@ -1,0 +1,38 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "main {display: none !important;}",
+        "h2 {font-size: 21px;}"
+      ],
+      "settings": {
+        "show_collection_image": false,
+        "collection_image_aspect_ratio": "natural",
+        "show_collection_description": true,
+        "text_max_width": 40,
+        "enable_animation": true
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        ".collection .filter-bar__inner.show {background-color: transparent !important;}"
+      ],
+      "settings": {
+        "show_sort": true,
+        "show_filters": true,
+        "columns": 3,
+        "columns_mobile": "2",
+        "per_page": 12,
+        "pagination": "infinite",
+        "aspect_ratio": "natural",
+        "enable_animation": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid"
+  ]
+}

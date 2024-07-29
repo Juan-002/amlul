@@ -1,0 +1,33 @@
+{
+  "type": "custom.overlay",
+  "name": "t:groups.overlay_group.name",
+  "sections": {
+    "popup": {
+      "type": "popup",
+      "blocks": {
+        "1acac073-c6ec-465e-9592-d151e4068e2e": {
+          "type": "popup",
+          "settings": {
+            "title": "JOIN US!",
+            "subheading": "<h6>Subscribe now and get 10% off on your first purchase <\/h6>",
+            "enable_newsletter_signup": true,
+            "image_position": "image_presentation",
+            "color_text": "#000000",
+            "color_text_button": "#1c2232",
+            "color_background_button": "#f4f4f4",
+            "color_overlay": "#ffffff",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 100
+          }
+        }
+      },
+      "block_order": [
+        "1acac073-c6ec-465e-9592-d151e4068e2e"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "popup"
+  ]
+}
